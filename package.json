@@ -8,7 +8,7 @@
   "dependencies": {
     "debug": "^3.1.0",
     "extend": "^3.0.2",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "read-metadata": "0.0.2",
     "uniq": "0.0.2"
   },
